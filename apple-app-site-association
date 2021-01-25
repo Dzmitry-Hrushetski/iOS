@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "58EKWLLS85.by.bulbapay.bulba",
+            "paths": ["*"]
+        }]
+    }
+}
